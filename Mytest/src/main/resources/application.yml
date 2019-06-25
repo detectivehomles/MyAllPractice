@@ -1,0 +1,4 @@
+server:
+  port: 9096
+  servlet:
+    context-path: /mytest
